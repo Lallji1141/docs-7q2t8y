@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-igq1i0.trans88.space/sitemap.xml
